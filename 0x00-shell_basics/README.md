@@ -1,1 +1,1 @@
-cd : Write a script that changes the working directory to the previous one
+the working directory and the /boot directory 
