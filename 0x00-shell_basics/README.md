@@ -1,1 +1,1 @@
-Move the file betty from /tmp/ to /tmp/my_first_directory
+Write a script that changes the working directory to the user’s home directory
