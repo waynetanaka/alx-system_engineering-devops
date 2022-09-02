@@ -1,1 +1,1 @@
-the working directory and the /boot directory 
+Write a script that prints the type of the file named iamafile.
