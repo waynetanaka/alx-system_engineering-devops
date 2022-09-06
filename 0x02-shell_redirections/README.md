@@ -1,1 +1,1 @@
-Display lines containing the pattern “root” from the file /etc/passwd
+t must be in that file
